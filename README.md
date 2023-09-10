@@ -1,4 +1,4 @@
-# Improved-Selective-Repeat-ARQ
+# Improved-Selective-Repeat-ARQ (Computer Networks Project)
 The project aims to implement Improved Selective Repeat ARQ by E.J.Weldon Jr.
 
 Research Paper link: http://web.mit.edu/modiano/www/6.263/weldon_improved_srp.pdf
